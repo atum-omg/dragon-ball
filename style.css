@@ -1,0 +1,32 @@
+.geraldo{
+    width: 70%;
+    background-color: rgb(17, 17, 17);
+    color: aliceblue;
+    padding-left:3%;
+    padding-right:3%;
+    font-size: larger;
+    border-radius: 10px;
+}
+
+img{
+   width: 100%;
+   border-radius: 20px;
+}
+body{   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./imagens/2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+ol{
+    padding-left: 0%;
+}
+.videos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

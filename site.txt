@@ -1,0 +1,20 @@
+definir tema do site (lista com 10 items)
+estrutura do site   
+        1 - titulo h1  OK
+        2 - imagem geral OK
+        3 - descrição do site   OK
+        4 - começo da lista OK
+            * titulo h2 OK
+            * imagem ou video OK
+            * descrição do item OK
+            * links 
+        5 - div OK
+        6 - css
+            * fundo escuro (ou imagem)  OK
+            * div centralizada  OK
+            * imagens tem que estar no centro da div  OK
+            * fundo da div escuro  OK
+            * letras brancas  OK
+            * imagens com bordas arredondadas
+            *letras
+            *margem
